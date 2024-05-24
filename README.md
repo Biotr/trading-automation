@@ -1,4 +1,4 @@
-# Project Title
+# tradingview-binance-bot
 
 tradingview-binance-bot converts alerts from tradingview strategies to real orders in Binance.
 
