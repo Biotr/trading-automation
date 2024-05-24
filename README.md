@@ -4,7 +4,7 @@ tradingview-binance-bot converts alerts from tradingview strategies to real orde
 
 ## Description
 
-Bot uses alerts and webhook to send json with order properties. ngrok https link is forwarding to localhost on the same port as flask works. Python script remove last opened order and then opening position with half of your account balance.
+Bot using alerts and webhook to send json with order properties. ngrok https link is forwarding to localhost on the same port as flask works. Python script remove last opened order and then opening position with half of your account balance.
 
 
 https://github.com/Biotr/tradingview-binance-bot/assets/51881112/61e284b2-2342-4668-8cf2-1ba7cfdda9c8
