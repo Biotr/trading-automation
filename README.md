@@ -38,13 +38,7 @@ https://github.com/Biotr/tradingview-binance-bot/assets/51881112/61e284b2-2342-4
   ```
 * Turn on alert
 ## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
 
-## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
