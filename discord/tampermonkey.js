@@ -4,7 +4,7 @@
 // @version      2025-04-10
 // @description  try to take over the world!
 // @author       You
-// @match        https://discord.com/channels/1221015618296348754/1221015619059585116
+// @match        <channel link>
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
